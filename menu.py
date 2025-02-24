@@ -19,8 +19,8 @@ last_generated_date = None
 
 # List of Telegram chat IDs subscribed to receive the daily menu broadcast
 subscribers = [
-    1095342462,
-    1351121730
+    1095342///,
+    1351121///
 ]
 
 
@@ -159,7 +159,7 @@ async def main():
     The broadcast is scheduled to run daily at 10:00.
     """
     # Initialize the Telegram bot with the provided token
-    bot = Bot(token='8001477633:AAHN_fGs6bEUE6MeAubvOc9ce0yZ_2vqito')
+    bot = Bot(token='Your Token')
 
     # Create an asynchronous scheduler for periodic tasks
     scheduler = AsyncIOScheduler()
