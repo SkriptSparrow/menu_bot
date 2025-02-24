@@ -1,0 +1,204 @@
+{
+  "proteins": [
+    {
+      "name": "Запеченные куриные окорочка",
+      "info": "Куриные окорочка, маринад",
+      "calories": "180.8 ккал/100 гр",
+      "image": "images/Chicken_lags.jpg"
+    },
+    {
+      "name": "Запеченная куриная тушка",
+      "info": "Куриная тушка, маринад",
+      "calories": "174.4 ккал/100 гр",
+      "image": "images/Chicken.jpg"
+    },
+    {
+      "name": "Котлеты",
+      "info": "фарш, лук, яйца, специи, мука",
+      "calories": "249.9 ккал/100 гр",
+      "image": "images/Cutlets.jpg"
+    },
+    {
+      "name": "Куриное филе",
+      "info": "Куриная грудка или филе",
+      "calories": "161.8 ккал/100 гр",
+      "image": "images/Chicken_fillet.jpg"
+    },
+    {
+      "name": "Фаршированные перцы",
+      "info": "Паприка, фарш, рис, специи",
+      "calories": "172.1 ккал/100 гр",
+      "image": "images/Stuffed_peppers.jpg"
+    },
+    {
+      "name": "Копченая свиная шея",
+      "info": "Копченая свиная шея",
+      "calories": "375 ккал/100 гр",
+      "image": "images/spn.jpeg"
+    }
+  ],
+  "carbohydrates": [
+    {
+      "name": "Картофель отварной",
+      "info": "Картофель, специи",
+      "calories": "76 ккал/100 гр",
+      "image": "images/Boiled_potatoes.jpg"
+    },
+    {
+      "name": "Картофельное пюре",
+      "info": "Картофель, молоко, сливочное масло",
+      "calories": "88 ккал/100 гр",
+      "image": "images/Mashed_potatoes.jpg"
+    },
+    {
+      "name": "Картофель запеченный гармошкой",
+      "info": "Картофель, чеснок, шампиньоны, специи",
+      "calories": "93 ккал/100 гр",
+      "image": "images/Baked_potatoes.jpg"
+    },
+    {
+      "name": "Макароны",
+      "info": "Макароны, подсолнечное масло",
+      "calories": "371 ккал/100 гр",
+      "image": "images/Pasta.jpg"
+    },
+    {
+      "name": "Рис",
+      "info": "Рис, специи",
+      "calories": "116 ккал/100 гр",
+      "image": "images/Rice.jpg"
+    },
+    {
+      "name": "Борщ",
+      "info": "Мясо, картофель, свёкла, морковь, лук, чеснок, специи",
+      "calories": "55.3 ккал/100 гр",
+      "image": "images/Borsch.jpg"
+    },
+    {
+      "name": "Оливье",
+      "info": "Колбаса, яйца, картофель, морковь, горошек, маринованные огурцы, майонез",
+      "calories": "187 ккал/100 гр",
+      "image": "images/Olivje.jpg"
+    },
+    {
+      "name": "Рагу",
+      "info": "Мясо, картофель, лук, морковь, специи",
+      "calories": "124.6 ккал/100 гр",
+      "image": "images/Stew.jpg"
+    },
+    {
+      "name": "Тортилья с тунцом",
+      "info": "Тортилья, консервированный тунец, творожный сыр, чеснок, яйцо",
+      "calories": "163.8 ккал/100 гр",
+      "image": "images/Tuna_flatbread.jpg"
+    }
+  ],
+  "fiber": [
+    {
+      "name": "Оливье на минималках",
+      "info": "Картофель, морковь, горошек, маринованные огурцы, подсолнечное масло",
+      "calories": "104 ккал/100 гр",
+      "image": "images/olivje_minimalizm.jpg"
+    },
+    {
+      "name": "Салат с капустой",
+      "info": "Картофель, капуста, горошек, огурцы, подсолнечное масло",
+      "calories": "83.6 ккал/100 гр",
+      "image": "images/Cabbage_salad.jpg"
+    },
+    {
+      "name": "Салат с овощами",
+      "info": "Огурцы, помидоры, горошек, сметана",
+      "calories": "25.1 ккал/100 гр",
+      "image": "images/Summer_salad.jpg"
+    },
+    {
+      "name": "Винегрет",
+      "info": "Маринованные огурцы, картофель, горошек, морковь, свёкла, капуста, подсолнечное масло",
+      "calories": "100 ккал/100 гр",
+      "image": "images/Vinaigrette.jpg"
+    },
+    {
+      "name": "Свёкла с чесноком",
+      "info": "Свёкла, чеснок, майонез (возможно сыр)",
+      "calories": "122.6 ккал/100 гр",
+      "image" : "images/Beets_with_garlic.jpg"
+    }
+  ],
+  "sauces": [
+    {
+      "name": "Сливочный",
+      "info": "Сметана, мука, чеснок, специи",
+      "calories": "207.8 ккал/100 гр",
+      "image": "images/creamy_sauce.jpg"
+    },
+    {
+      "name": "Грибной",
+      "info": "Сметана, грибы, горчица, мука, чеснок, специи",
+      "calories": "109 ккал/100 гр",
+      "image": "images/mushroom_sauce.jpg"
+    },
+    {
+      "name": "С томатами и шпинатом",
+      "info": "Сметана, помидоры, шпинат, мука, чеснок, специи",
+      "calories": "104.1 ккал/100 гр",
+      "image": "images/tomato_basil_sauce.jpg"
+    },
+    {
+      "name": "Томатный",
+      "info": "Томантая паста, мука, чеснок, специи",
+      "calories": "30 ккал/100 гр",
+      "image": "images/tomato_sauce.jpg"
+    },
+    {
+      "name": "Горчичный",
+      "info": "Горчица, лимон, чеснок, специи",
+      "calories": "190 ккал/100 гр",
+      "image": "images/Mustard_sauce.jpg"
+    },
+    {
+      "name": "Сметана",
+      "info": "Сметана",
+      "calories": "206 ккал/100 гр",
+      "image": "images/smetana.jpeg"
+    }
+  ],
+  "appetizers": [
+    {
+      "name": "Сендвичи из пекары",
+      "info": "Булочка, овощи, мясо, соус",
+      "calories": "291 ккал/100 гр",
+      "image": "images/Sandwich.jpg"
+    },
+    {
+      "name": "Пицца",
+      "info": "Тесто, соус, начинка",
+      "calories": "266 ккал/100 гр",
+      "image": "images/Pizza.jpg"
+    },
+    {
+      "name": "Горячие сендвичи",
+      "info": "Хлеб, начинка, сыр",
+      "calories": "229.6 ккал/100 гр",
+      "image": "images/Hot_sandwiches.jpg"
+    },
+    {
+      "name": "Бургеры",
+      "info": "Булочка, овощи, мясо, соус",
+      "calories": "295 ккал/100 гр",
+      "image": "images/Burger.jpg"
+    },
+    {
+      "name": "Плескавица/Чевапы",
+      "info": "Булочка, овощи, мясо, соус",
+      "calories": "214.5 ккал/100 гр",
+      "image": "images/Pleskavica.jpg"
+    },
+    {
+      "name": "Домашний чизкейк",
+      "info": "Печенье, сливочное масло, густая сметана, желатин, апельсин (или другой фрукт)",
+      "calories": "267.5 ккал/100 гр",
+      "image": "images/cheesecake.jpeg"
+    }
+  ]
+}
